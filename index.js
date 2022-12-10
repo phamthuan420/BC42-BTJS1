@@ -1,7 +1,7 @@
 // 1. Tính lương nhân viên làm theo tổng ngày làm việc dựa trên lương cơ bản là 100k/ngày 
 
 // input: ĐẦU VÀO DỮ LIỆU
-let bt1 = "Tính lương NV"
+let bt1 = "1. Tính lương NV"
 console.log(bt1)
 let luong1Ngay = 100000;
 let soNgayLam = 28;
@@ -18,7 +18,7 @@ console.log('Tổng lương =',luong);
 //2. VIẾT CHƯƠNG TRÌNH NHẬP 5 SỐ THỰC
 
 // input: ĐẦU VÀO DỮ LIỆU
-let bt2 = "Chương trình nhập 5 só"
+let bt2 = "2. Chương trình nhập 5 só"
 console.log(bt2)
 let sothuc1 = 23;
 let sothuc2 = 28;
@@ -41,7 +41,7 @@ console.log('Tổng trung bình =', tbTong)
 //3. QUY ĐỔI TIỀN
 
 // input: ĐẦU VÀO DỮ LIỆU
-let bt3 = "QUY ĐỔI TIỀN"
+let bt3 = "3. QUY ĐỔI TIỀN"
 console.log(bt3)
 let VND = 23500
 console.log('1 USD =', VND)
@@ -58,7 +58,7 @@ console.log('Đổi sang VND =', quyDoiVND)
 //4. TÍNH DIỆN TÍCH , CHU VI HÌNH CHỮ NHẬT
 
 // input: ĐẦU VÀO DỮ LIỆU
-let bt4 = "TÍNH DIỆN TÍCH , CHU VI HÌNH CHỮ NHẬT"
+let bt4 = "4. TÍNH DIỆN TÍCH , CHU VI HÌNH CHỮ NHẬT"
 console.log(bt4);
 let longs = 24;
 console.log('Chiều dài =', longs);
@@ -77,7 +77,7 @@ console.log('Diện tích =', dienTich);
 //5. TÍNH TỔNG 2 KÝ SỐ
 
 // input: ĐẦU VÀO DỮ LIỆU
-let bt5 = "TÍNH TỔNG 2 KÝ SỐ"
+let bt5 = "5. TÍNH TỔNG 2 KÝ SỐ"
 console.log(bt5);
 // Khai báo 
 let number = 24;
